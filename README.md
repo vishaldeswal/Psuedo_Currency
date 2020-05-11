@@ -13,6 +13,9 @@ first of all you need to make a new account in bank then you can login in from y
 now you can do all the operations which are listed.
 
 for e.g.
+![OPEN NEW ACCOUNT](https://user-images.githubusercontent.com/44167202/81551557-ad039e00-939f-11ea-9d40-d23dea4bd677.png)
+![LOGIN](https://user-images.githubusercontent.com/44167202/81551571-b2f97f00-939f-11ea-8440-479a283b4425.png)
+![e_passbook](https://user-images.githubusercontent.com/44167202/81551593-bb51ba00-939f-11ea-9924-085ca5a63b96.png)
 
 
 
